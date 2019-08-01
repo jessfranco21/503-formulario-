@@ -1,6 +1,8 @@
 body{
     margin: 0;
-
+    background-image: url(fundo-abstrato-holografico-em-cor-de-neon-pastel_40163-61.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 input{
@@ -10,6 +12,8 @@ input{
     display: flex;
     height: 15pt;
     width: 200pt;
+    margin-bottom: 10px;
+    border-radius: 30px;
     
 }
 body{
